@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27291e37-faef-455f-b423-e44fd0eb2417" name="변경" comment="01. init">
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/gpt_token.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="27291e37-faef-455f-b423-e44fd0eb2417" name="변경" comment="01. openai 1.2.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699582679543</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="01. openai 1.2.2">
+      <option name="closed" value="true" />
+      <created>1699583886919</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699583886919</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +134,7 @@
     </ignored-roots>
     <MESSAGE value="ainnov-gpt" />
     <MESSAGE value="01. init" />
-    <option name="LAST_COMMIT_MESSAGE" value="01. init" />
+    <MESSAGE value="01. openai 1.2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="01. openai 1.2.2" />
   </component>
 </project>
