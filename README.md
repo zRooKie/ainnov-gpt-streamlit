@@ -5,3 +5,5 @@ https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps#bui
 
 ## streamlit 실행
 streamlit run app.py
+
+
